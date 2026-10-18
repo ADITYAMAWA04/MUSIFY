@@ -3,7 +3,7 @@ const songs = [
     title: "Nanchaku",
     artist: "Seedhe Maut",
     src: "Songs/Nanchaku (PenduJatt.Com.Se).mp3",
-    cover: "https://pendujatt.com.se/uploads/album/seedhe-maut.webp",
+    cover: "https://c.saavncdn.com/978/MER_8445162497978-Hindi-2021-20210909014316-500x500.jpg",
     color: "linear-gradient(135deg,#6b8e23,#283618)"
   },
   {
@@ -17,7 +17,7 @@ const songs = [
     title: "Namastute",
     artist: "Seedhe Maut",
     src: "Songs/Namastute (PenduJatt.Com.Se).mp3",
-    cover: "https://pendujatt.com.se/uploads/album/seedhe-maut.webp",
+    cover: "https://c.saavncdn.com/978/MER_8445162497978-Hindi-2021-20210909014316-500x500.jpg",
     color: "linear-gradient(135deg,#6b8e23,#283618)"
   }
 ];
